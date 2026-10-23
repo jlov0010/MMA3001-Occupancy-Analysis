@@ -1,0 +1,14 @@
+# Exclude the unit-provided raw occupancy dataset
+data/*
+!data/.gitkeep
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Local environment files
+.env
