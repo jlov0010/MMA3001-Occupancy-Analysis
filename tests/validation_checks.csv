@@ -1,0 +1,17 @@
+check,status,detail
+Integration 0f3f37f8,PASS,"Recalculated empty=0.291006, Stage 4 empty=0.291006"
+Integration 227f1068,PASS,"Recalculated empty=0.294653, Stage 4 empty=0.294653"
+Integration 3e5a14df,PASS,"Recalculated empty=0.148756, Stage 4 empty=0.148756"
+Integration 941f0352,PASS,"Recalculated empty=0.233817, Stage 4 empty=0.233817"
+Integration cca1ac3e,PASS,"Recalculated empty=0.329701, Stage 4 empty=0.329701"
+Forecast 0f3f37f8,PASS,"MAE=0.180266, RMSE=0.326045, R²=0.597448"
+Forecast 227f1068,PASS,"MAE=0.251119, RMSE=0.420277, R²=0.470568"
+Forecast 3e5a14df,PASS,"MAE=0.453344, RMSE=0.726573, R²=0.633376"
+Forecast 941f0352,PASS,"MAE=0.215153, RMSE=0.367082, R²=0.711224"
+Forecast cca1ac3e,PASS,"MAE=0.398353, RMSE=1.071035, R²=0.538926"
+Anomalies 0f3f37f8,PASS,"17 anomalous hours, 16 events"
+Anomalies 227f1068,PASS,"1 anomalous hours, 1 events"
+Anomalies 3e5a14df,PASS,"22 anomalous hours, 21 events"
+Anomalies 941f0352,PASS,"30 anomalous hours, 28 events"
+Anomalies cca1ac3e,PASS,"3 anomalous hours, 3 events"
+Weekday window ranking stability,PASS,Rankings identical across all three windows
